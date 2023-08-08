@@ -11,6 +11,7 @@ input {
     font-size: 16px;
     border: 1px solid #ddd;
     border-radius: 5px;
+    margin-right: 6px;
 }
 
 button {
@@ -30,5 +31,5 @@ button:hover {
     width: 100vw;
     margin: 0;
     display: flex;
-    align-items: space-between;
+    justify-content: center;
 }
